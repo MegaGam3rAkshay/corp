@@ -9,7 +9,7 @@
 ![Settings](http://i.imgur.com/4GNq1lu.png)
 
 2. Select Add Webhook
-![Add](http://i.imgur.com/BrHcd2q.png)
+![Add](http://i.imgur.com/ZvrBQdi.png)
 
 3. Paste in the webhook url and append `/github` to the end. Select "Send me everything", and then Add Webhook
 ![WebhookSettings](http://i.imgur.com/mrf8Qmj.png)
